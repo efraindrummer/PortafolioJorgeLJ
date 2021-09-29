@@ -1,0 +1,64 @@
+{
+    "name": "Portafolio",
+    "short_name": "Portafolio",
+    "description": "Bienvenid@s a mi #Portafolio, donde explicare mis habilidades como Desarrollador Frontend y lo que ofrezco para contribuir en la elaboración de cualquier proyecto",
+    "background_color": "#FFF",
+    "theme_color": "#0c08e2",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "/?utm_source=web_app_manifest",
+    "scope": "/",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "/icon/icon_1024.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/icon_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/icon_384.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/icon_256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/icon_192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/icon_128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/icon_96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/icon_64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/icon_32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/icon_16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      }
+    ]
+  }
